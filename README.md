@@ -1,2 +1,2 @@
 # PidCloud
-Construção de site com html e css.
+Construção de um site com html e css.
